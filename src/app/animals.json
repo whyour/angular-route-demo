@@ -1,0 +1,22 @@
+[
+    {
+      name: 'aardvark',
+      bio: 'The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa',
+      img: '/assets/img/aardvark.jpg'
+    },
+    {
+      name: 'elephant',
+      bio: 'This is elephant',
+      img: '/assets/img/elephant.jpg'
+    },
+    {
+      name: 'moose',
+      bio: 'This is moose',
+      img: '/assets/img/moose.PNG'
+    },
+    {
+      name: 'zebra',
+      bio: 'This is zebra',
+      img: '/assets/img/zebra.jpg'
+    }
+]
